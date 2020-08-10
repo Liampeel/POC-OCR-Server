@@ -1,6 +1,5 @@
 # AI Medical base application
-
-The base of our final year project that we will be working off of later on.
+The server for my final year dissertation
 
 ## Prerequisites
 
